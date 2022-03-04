@@ -1,5 +1,5 @@
 # Ice Hockey Schedule Discord Bot
-![Node.js](https://img.shields.io/badge/node.js-v16.14.0-brightgreen) ![Puppeteer]
+![Node.js](https://img.shields.io/badge/node.js-v16.14.0-brightgreen) ![npm](https://img.shields.io/badge/npm-v8.3.1-yellow) ![Puppeteer](https://img.shields.io/badge/-puppeteer-orange)
 
 ## Table of Contents
 - [Introduction](#introduction)
