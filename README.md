@@ -18,7 +18,4 @@ It will then send a channel message in discord of the *previous, live and upcomi
 # Background
 This ideation came when my friend was competing in this competition, and we used the IIHF webpage to check for upcoming matches. Knowing that there are many announcement bots in discord that posts notification messages when a blog added a new post, a twitch streamer goes live etc. I decided to try and build a bot will **scrape the webpage** and sends the information into a discord channel when it receives the command "?schedule".
 
-As a student whose currently majoring in Big Data, data scrapping is important among data scientists and engineers as businesses are looking to seek value from data gathered from the web. These include mining comments from product reviews, public information available on the internet to analayse customer sentiments and research on a market industry.
-
-# Setup Guide
-To be added in the future
+As a student whose currently majoring in Big Data, data scrapping is important among data scientists and engineers as businesses are looking to seek value from data gathered from the web. These include mining comments from product reviews, public information available on the internet to analayse customer sentiments and research on a market industry
